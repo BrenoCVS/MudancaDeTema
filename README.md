@@ -4,4 +4,4 @@ Este site tem como objetivo testar a funcionalidade de alternar entre os temas c
 
 O código do site é inteiramente baseado no Bootstrap, sendo adicionado apenas o JavaScript para dar funcionalidade à página.
 
-Você pode ver a página funcionando no link:
+Você pode ver a página funcionando no link: https://brenocvs.github.io/MudancaDeTema/
